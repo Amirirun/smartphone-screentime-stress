@@ -9,4 +9,4 @@ Die Zielvariable dieses Projekts ist der Work_Productivity_Score, welcher mittel
 
 Datenschutz
 
-Der Datensatz enthält keine personenbezogenen Daten. Es sind weder Namen, Adressen noch Kontaktinformationen vorhanden. Die User_ID ist anonymisiert und dient lediglich als Identifikationsnummer. Da keine direkte oder indirekte Identifikation einer Person möglich ist, werden keine Datenschutzrichtlinien wie DSG oder DSGVO verletzt. Zusätzlich wurde die User_ID entfernt, da sie keinen Mehrwert für die Modellberechnung bietet.
+Der Datensatz enthält keine personenbezogenen Daten. Es sind weder Namen, Adressen noch Kontaktinformationen vorhanden. 
